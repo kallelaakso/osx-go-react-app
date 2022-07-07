@@ -1,4 +1,4 @@
-# Native OSX with Go and React
+# Native OSX application with Go and React
 
 Go(lang) wrapper for creating native OSX application using React.
 
