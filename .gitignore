@@ -1,6 +1,9 @@
 # macOS
 .DS_Store
 
+# IDE
+.idea
+
 # Dev files and directories
 ui/node_modules/
 ui/build/
